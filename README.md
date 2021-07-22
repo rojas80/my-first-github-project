@@ -1,2 +1,2 @@
 # my first github project
- practice using github
+ My first read Me!
